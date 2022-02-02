@@ -1,6 +1,5 @@
-# str for word
-# word = input("Введите слово из 5 букв ")
-word = 'ккооо'
+word = input("Введите слово из 5 букв ")
+# word = 'ккооо'
 today_word = 'кошка'
 # result
 if word == today_word:
